@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.h1{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.navy_block{
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 21px;
+    color: whitesmoke;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 10px;
+}
+
+.pic{
+    margin: 10px;
+}
+
+.pic img{
+    width: 500px;
+}
+
+.links a{
+    margin: 10px;
+
+}
